@@ -1,0 +1,9 @@
+spring:
+ application:
+  name: spring-enterprise-patterns-api
+
+ profiles:
+  active: dev
+
+server:
+ port: 8080
