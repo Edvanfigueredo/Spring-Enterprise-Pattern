@@ -165,7 +165,6 @@ mvn clean test
 ![Flyway](https://img.shields.io/badge/Flyway-Database-red)
 ![License](https://img.shields.io/badge/License-Study-lightgrey)
 
----
 
 ---
 
